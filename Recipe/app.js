@@ -5,7 +5,7 @@ const menu = document.querySelector('#mobile-menu');
             menu.classList.toggle('active');
             menuLinks.classList.toggle('active');
             
-            // Animate hamburger to X
+            // Animate
             const bars = document.querySelectorAll('.bar');
             if (menuLinks.classList.contains('active')) {
                 bars[0].style.transform = 'rotate(-45deg) translate(-5px, 6px)';
