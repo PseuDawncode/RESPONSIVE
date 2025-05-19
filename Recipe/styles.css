@@ -130,8 +130,8 @@
         }
 
         .main__content h1 {
-            font-family: 'Poppins', sans-serif;
-            font-size: 3rem;
+            font-family: 'Poppins';
+            font-size: 5rem;
             font-weight: 700;
             margin-bottom: 20px;
             color: #333;
