@@ -11,9 +11,8 @@
             background-color: #fff;
         }
 
-        /* Navbar Styles */
         .navbar {
-            background: #fff;
+            background-color: #fff;
             height: 80px;
             display: flex;
             justify-content: center;
@@ -22,7 +21,7 @@
             position: sticky;
             top: 0;
             z-index: 999;
-            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            
         }
 
         .navbar__container {
@@ -35,10 +34,10 @@
         }
 
         .navbar__container h1 {
-            font-family: 'Baloo 2', cursive;
+            font-family: 'Baloo 2', bold;
             font-weight: 600;
             font-size: 1.8rem;
-            color: #ff6b00;
+            color: #242635;
             cursor: pointer;
         }
 
